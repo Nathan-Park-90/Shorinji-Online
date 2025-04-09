@@ -1,0 +1,1388 @@
+[
+    {
+        "Title":"Happomoku",
+        "Rank":1,
+        "Style":"Basic",
+        "Description":"Eye movement to assess all directions. Develops awareness and preparedness for incoming attacks."
+    },
+    {
+        "Title":"Anza",
+        "Rank":1,
+        "Style":"Basic",
+        "Description":"Sitting meditation posture. Cultivates mental focus and stability."
+    },
+    {
+        "Title":"Entrance ceremony",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Formal procedures for entering the dojo. Reinforces respect and discipline."
+    },
+    {
+        "Title":"Kyakka shoko",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Bowing upon entering and leaving the dojo. Shows gratitude and respect for the training space."
+    },
+    {
+        "Title":"Gassho rei",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Formal greeting with hands together. Demonstrates respect and humility."
+    },
+    {
+        "Title":"Various stances",
+        "Rank":6,
+        "Style":"Kamae",
+        "Description":"Includes stances like chudan gamae, ichiji gamae, etc. Foundational postures for stability and technique execution."
+    },
+    {
+        "Title":"Chosoku ho",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Method of maintaining a centered posture. Promotes balance and efficient movement."
+    },
+    {
+        "Title":"Sokui ho",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Breathing exercises for relaxation and focus. Enhances mental and physical composure."
+    },
+    {
+        "Title":"Sei tai",
+        "Rank":6,
+        "Style":"Shifting",
+        "Description":"Shifting the body weight to a forward stance. Prepares for offensive techniques."
+    },
+    {
+        "Title":"Tai",
+        "Rank":6,
+        "Style":"Shifting",
+        "Description":"Shifting the body weight to a neutral stance. Provides a balanced foundation for both offense and defense."
+    },
+    {
+        "Title":"Hiraki",
+        "Rank":6,
+        "Style":"Shifting",
+        "Description":"Shifting the body weight to a back stance. Sets up defensive techniques."
+    },
+    {
+        "Title":"Ryusui geri (ushiro)",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"Roundhouse kick. A powerful offensive technique."
+    },
+    {
+        "Title":"Uchi uke zuki (ura)",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"Inside block followed by a punch. A basic defensive and counter-offensive combination."
+    },
+    {
+        "Title":"Tenshin geri",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"Turning kick. Utilizes momentum for a dynamic attack."
+    },
+    {
+        "Title":"Uwa uke zuki (omote)",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"Outside block followed by a punch. A fundamental defensive and counter-offensive technique."
+    },
+    {
+        "Title":"Kote nuki",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"Wrist release technique. A core self-defense skill."
+    },
+    {
+        "Title":"De ashi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Sliding the foot forward. Used for advancing stances and techniques."
+    },
+    {
+        "Title":"Hiki ashi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Sliding the foot backward. Used for retreating stances and techniques."
+    },
+    {
+        "Title":"Yoko ashi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Sliding the foot sideways. Used for lateral movement and evasion."
+    },
+    {
+        "Title":"Ryusui uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Basic upper-level block. Deflects attacks aimed at the head or upper body."
+    },
+    {
+        "Title":"Hikimi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Pulling in the abdomen for focus and power generation. Engages core muscles and improves stability."
+    },
+    {
+        "Title":"Irimi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Entering or stepping forward. Used to close distance and initiate attacks."
+    },
+    {
+        "Title":"Jun zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Straight punch with the lead hand. A fundamental offensive technique."
+    },
+    {
+        "Title":"Gyaku zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Straight punch with the rear hand. A powerful offensive technique."
+    },
+    {
+        "Title":"Jun geri",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Straight kick with the lead leg. A basic kicking technique."
+    },
+    {
+        "Title":"Gyaku geri",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Straight kick with the rear leg. A powerful kicking technique."
+    },
+    {
+        "Title":"Uwa uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Outside block. Deflects attacks coming from the outside."
+    },
+    {
+        "Title":"Uchi uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Inside block. Deflects attacks coming from the inside."
+    },
+    {
+        "Title":"Shita uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Lower block. Deflects attacks aimed at the lower body."
+    },
+    {
+        "Title":"Jodan zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Punch to the upper level (head). A basic offensive technique."
+    },
+    {
+        "Title":"Chudan geri",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Kick to the middle level (body). A basic kicking technique."
+    },
+    {
+        "Title":"Juji ashi sagari",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping back with the feet crossed. Used for evading attacks and creating angles."
+    },
+    {
+        "Title":"Kumo ashi sagari",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping back with the feet apart. Used for maintaining balance while retreating."
+    },
+    {
+        "Title":"Do zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Strike with the fist to a padded target. Used for practicing power and accuracy."
+    },
+    {
+        "Title":"Do geri",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Kick to a padded target. Used for practicing power and accuracy."
+    },
+    {
+        "Title":"Mae ukemi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Forward roll breakfall. Used for safely falling forward."
+    },
+    {
+        "Title":"Ushiro ukemi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Backward roll breakfall. Used for safely falling backward."
+    },
+    {
+        "Title":"Daisharin",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Cartwheel. Develops agility and coordination."
+    },
+    {
+        "Title":"Zen tenkan",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Full turn. Used for changing direction and facing the opponent."
+    },
+    {
+        "Title":"Han tenkan",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Half turn. Used for changing direction and facing the opponent."
+    },
+    {
+        "Title":"Kagi zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Hook punch. A circular punch aimed at the head or body."
+    },
+    {
+        "Title":"Harai uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Sweeping block. Used for deflecting attacks with a sweeping motion."
+    },
+    {
+        "Title":"Uchi harai uke",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Inside sweeping block. Used for deflecting attacks coming from the inside."
+    },
+    {
+        "Title":"Oten yori okiagari",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Standing up from a supine position. Practices recovery and regaining balance."
+    },
+    {
+        "Title":"Nuki te",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Hand-releasing techniques. Used for escaping grabs and holds."
+    },
+    {
+        "Title":"Uraken uchi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Backfist strike. A close-range offensive technique."
+    },
+    {
+        "Title":"Kote nuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Wrist release technique. A core self-defense skill."
+    },
+    {
+        "Title":"Kagite shuho",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Method of grabbing the opponent's hand. Used for initiating joint locks and throws."
+    },
+    {
+        "Title":"Uraken chudan zuki",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Backfist strike to the middle level (body). A close-range offensive technique."
+    },
+    {
+        "Title":"Sashikae irimi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping forward with the rear leg. Used for closing distance and initiating attacks."
+    },
+    {
+        "Title":"Chidori irimi",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping forward with the lead leg. Used for closing distance and initiating attacks."
+    },
+    {
+        "Title":"Hiraki sagari",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping back with the rear leg. Used for creating distance and setting up defenses."
+    },
+    {
+        "Title":"Jun sagari",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Stepping back with the lead leg. Used for creating distance and setting up defenses."
+    },
+    {
+        "Title":"Offenses while moving",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Practicing punches and kicks while moving forward or backward. Develops dynamic striking skills."
+    },
+    {
+        "Title":"Defenses while moving",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Practicing blocks and evasions while moving forward or backward. Develops dynamic defensive skills."
+    },
+    {
+        "Title":"Tenchi Ken Dai-ikkei (solo form)",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Ryu'o Ken Dai-ikkei (solo form)",
+        "Rank":6,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of joint-locking and throwing techniques. Develops self-defense skills."
+    },
+    {
+        "Title":"Offenses and defenses while moving",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Practicing combined attack and defense techniques while moving. Develops integrated combat skills."
+    },
+    {
+        "Title":"Ni ren ko of tsuki and keri",
+        "Rank":6,
+        "Style":"Basic",
+        "Description":"Two consecutive strikes with punches and kicks. Develops combination striking skills."
+    },
+    {
+        "Title":"Keri age",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Upward kick. A versatile offensive and defensive technique."
+    },
+    {
+        "Title":"Keri komi",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Thrusting kick. A powerful offensive technique."
+    },
+    {
+        "Title":"Byakuren chudan gamae (kaisoku chudan gamae)",
+        "Rank":5,
+        "Style":"Kamae",
+        "Description":"A specific stance used in Byakuren Ken techniques. Provides a balanced foundation for both offense and defense."
+    },
+    {
+        "Title":"Jo chu ni ren zuki",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Two consecutive punches to the upper and middle levels. A basic combination striking technique."
+    },
+    {
+        "Title":"Hiraki sagari and keri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Stepping back and kicking. A defensive and counter-offensive maneuver."
+    },
+    {
+        "Title":"Shuto giri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Knifehand strike. A versatile offensive technique."
+    },
+    {
+        "Title":"Yorimi",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Leaning or shifting the body weight. Used for evasion and creating angles."
+    },
+    {
+        "Title":"Tenchi Ken Dai-ikkei (paired form)",
+        "Rank":5,
+        "Style":"Hokei",
+        "Description":"Prearranged two-person sequence of basic techniques. Develops timing and partner coordination."
+    },
+    {
+        "Title":"Randori (goho)",
+        "Rank":5,
+        "Style":"Randori",
+        "Description":"Free-form sparring focusing on offensive techniques. Develops practical application of techniques."
+    },
+    {
+        "Title":"Randori (juho)",
+        "Rank":5,
+        "Style":"Randori",
+        "Description":"Free-form sparring focusing on defensive techniques. Develops practical application of techniques."
+    },
+    {
+        "Title":"Sashikomi ashi and jun geri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Stepping forward with a thrusting kick. A basic offensive combination."
+    },
+    {
+        "Title":"Mawashi geri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Roundhouse kick. A powerful offensive technique."
+    },
+    {
+        "Title":"Juji uke",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Cross block. Used for defending against attacks from various angles."
+    },
+    {
+        "Title":"Various types of tai gamae",
+        "Rank":5,
+        "Style":"Kamae",
+        "Description":"Variations of the basic stance. Adapts the stance to different situations."
+    },
+    {
+        "Title":"Giwa Ken Dai-ikkei (solo form)",
+        "Rank":5,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Sashikae ashi",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Switching the lead leg. Used for changing direction and creating angles."
+    },
+    {
+        "Title":"Sokuto geri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Side kick. A powerful offensive technique."
+    },
+    {
+        "Title":"Uchi geri",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Inside kick. A close-range offensive technique."
+    },
+    {
+        "Title":"Gedan zuki",
+        "Rank":5,
+        "Style":"Basic",
+        "Description":"Punch to the lower level (groin). A basic offensive technique."
+    },
+    {
+        "Title":"Jun zuki, gyaku zuki, jun geri, gyaku geri",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Basic punches and kicks with both lead and rear limbs. Fundamental offensive techniques."
+    },
+    {
+        "Title":"Soto uke",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Outside block. Deflects attacks coming from the outside."
+    },
+    {
+        "Title":"Giwa Ken Dai-ikkei (solo form)",
+        "Rank":4,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Various types of ukemi",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Variations of breakfalls. Improves safety and adaptability in different falling scenarios."
+    },
+    {
+        "Title":"Various types of umpo ho",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Variations of footwork techniques. Enhances agility and movement efficiency."
+    },
+    {
+        "Title":"Various types of tai sabaki",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Body movements and evasion techniques. Develops agility and defensive skills."
+    },
+    {
+        "Title":"Various types of furi zuki",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Swinging punches. A versatile offensive technique."
+    },
+    {
+        "Title":"Various types of kagi zuki",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Hook punches. A circular punch aimed at the head or body."
+    },
+    {
+        "Title":"Furi zuki, chudan zuki (ni ren ko)",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Two consecutive swinging punches. A combination striking technique."
+    },
+    {
+        "Title":"Soto uke and uchi age uke",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Combined outside and uppercut block. Defends against attacks from different levels."
+    },
+    {
+        "Title":"Tenchi Ken Dai-nikei (solo form)",
+        "Rank":4,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Ni ren ko (jo jo zuki, jo chu zuki)",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Two consecutive punches to the upper level. A combination striking technique."
+    },
+    {
+        "Title":"Ni ren ko (uraken and chudan zuki, shuto giri and chudan zuki)",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Combinations of backfist strikes, knifehand strikes, and middle-level punches. Develops combination striking skills."
+    },
+    {
+        "Title":"Urate uchi (kinteki uchi)",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Palm heel strike to the groin. A close-range offensive technique."
+    },
+    {
+        "Title":"Shoken uchi (suigetsu, yoko zanmai, mikazuki)",
+        "Rank":4,
+        "Style":"Basic",
+        "Description":"Variations of open-hand strikes. A versatile offensive technique."
+    },
+    {
+        "Title":"San ren ko (jo chu jo tsuki, jo chu keri)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Three consecutive strikes with punches and kicks. Develops combination striking skills."
+    },
+    {
+        "Title":"Tenchi Ken Dai-sankei (solo form)",
+        "Rank":3,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Tenchi Ken Dai-yonkei (solo form)",
+        "Rank":3,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Ren geri (jun geri, gyaku geri and gyaku geri, jun geri)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Consecutive kicks with alternating legs. Develops kicking combinations."
+    },
+    {
+        "Title":"Tobi ren geri",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Jumping consecutive kicks. Develops dynamic kicking skills."
+    },
+    {
+        "Title":"Various types of dan zuki (me uchi and chudan zuki, jo jo dan zuki, jo chu dan zuki)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Variations of striking techniques targeting specific pressure points. Develops precision and knowledge of vital points."
+    },
+    {
+        "Title":"Sokuto geri",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Side kick. A powerful offensive technique."
+    },
+    {
+        "Title":"Various types of hiji ate",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Elbow strikes. A close-range offensive technique."
+    },
+    {
+        "Title":"Giwa Ken Dai-nikei (solo form)",
+        "Rank":3,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"San ren ko (jo chu choku geri, jo chu mawashi geri)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Three consecutive strikes with punches and kicks. Develops combination striking skills."
+    },
+    {
+        "Title":"Furi zuki (single and ren attacks)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Swinging punches, single and in combination. A versatile offensive technique."
+    },
+    {
+        "Title":"Various types of umpo ho",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Variations of footwork techniques. Enhances agility and movement efficiency."
+    },
+    {
+        "Title":"Various types of ukemi",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Variations of breakfalls. Improves safety and adaptability in different falling scenarios."
+    },
+    {
+        "Title":"Giwa Ken Dai-ikkei (paired form)",
+        "Rank":3,
+        "Style":"Hokei",
+        "Description":"Prearranged two-person sequence of basic techniques. Develops timing and partner coordination."
+    },
+    {
+        "Title":"Shoken uchi (mikazuki, suigetsu)",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Variations of open-hand strikes. A versatile offensive technique."
+    },
+    {
+        "Title":"Ryu'o Ken Dai-ikkei (solo form)",
+        "Rank":3,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of joint-locking and throwing techniques. Develops self-defense skills."
+    },
+    {
+        "Title":"Sashikomi ashi, mawashi geri",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Stepping forward with a roundhouse kick. A basic offensive combination."
+    },
+    {
+        "Title":"Harai uke and yoko juji uke",
+        "Rank":3,
+        "Style":"Basic",
+        "Description":"Sweeping block and cross block. Used for defending against attacks from various angles."
+    },
+    {
+        "Title":"Ni ren ko (shuto giri and chudan zuki)",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Two consecutive strikes with a knifehand strike and a middle-level punch. Develops combination striking skills."
+    },
+    {
+        "Title":"Ni ren ko (jodan zuki and chudan zuki)",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Two consecutive punches to the upper and middle levels. A basic combination striking technique."
+    },
+    {
+        "Title":"Various types of hiji ate",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Elbow strikes. A close-range offensive technique."
+    },
+    {
+        "Title":"Study defense against ashi barai",
+        "Rank":2,
+        "Style":"Juho",
+        "Description":"Learning to defend against foot sweeps. A core defensive skill."
+    },
+    {
+        "Title":"Various types of hiji ate",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Elbow strikes. A close-range offensive technique."
+    },
+    {
+        "Title":"Tobikomi geri, tobi geri, tobi ren geri",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Jumping kicks, single and in combination. Develops dynamic kicking skills."
+    },
+    {
+        "Title":"Various types of furi zuki",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Swinging punches. A versatile offensive technique."
+    },
+    {
+        "Title":"Kusshin uke",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"A specific block used in Kusshin techniques. Deflects attacks aimed at the head or upper body."
+    },
+    {
+        "Title":"Furi zuki and kussin uke",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Swinging punch and a specific block. A basic offensive and defensive combination."
+    },
+    {
+        "Title":"San ren ko (jo chu jo, jo chu keri)",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Three consecutive strikes with punches and kicks. Develops combination striking skills."
+    },
+    {
+        "Title":"Tenchi Ken Dai-nikei (solo form)",
+        "Rank":2,
+        "Style":"Kihon",
+        "Description":"A prearranged sequence of basic techniques. Develops coordination and flow."
+    },
+    {
+        "Title":"Ude ushiro neji age, hammer throw",
+        "Rank":2,
+        "Style":"Juho",
+        "Description":"Joint lock and throw technique. A core self-defense skill."
+    },
+    {
+        "Title":"Tenchi Ken Dai-nikei (paired form)",
+        "Rank":2,
+        "Style":"Hokei",
+        "Description":"Prearranged two-person sequence of basic techniques. Develops timing and partner coordination."
+    },
+    {
+        "Title":"Gyaku geri and yoko tenshin, han tenshin, gyaku tenshin",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Reverse kick and turning movements. Develops dynamic kicking and evasion skills."
+    },
+    {
+        "Title":"Sashikomi ashi, keri ren ko",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Stepping forward with consecutive kicks. Develops combination kicking skills."
+    },
+    {
+        "Title":"Sashikae ashi, keri ren ko",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Switching the lead leg with consecutive kicks. Develops dynamic kicking and footwork skills."
+    },
+    {
+        "Title":"Pressure points of the hands and arms",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Knowledge of vital points on the limbs. Enhances effectiveness of techniques."
+    },
+    {
+        "Title":"Ni ren ko (furi zuki)",
+        "Rank":2,
+        "Style":"Basic",
+        "Description":"Two consecutive swinging punches. A combination striking technique."
+    },
+    {
+        "Title":"Tenchi Ken Dai-ikkei (solo form)",
+        "Rank":6,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Ryu'o Ken Dai-ikkei (solo form)",
+        "Rank":6,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"ryusui geri (ushiro)",
+        "Rank":6,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"uwa uke zuki (omote, ura)",
+        "Rank":6,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"uchi uke zuki (ura)",
+        "Rank":6,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"tenshin geri",
+        "Rank":6,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"kote nuki",
+        "Rank":6,
+        "Style":"Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"ude juji gatame",
+        "Rank":6,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"Giwa Ken Dai-ikkei (solo form)",
+        "Rank":5,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Ryu'o Ken Dai-ikkei (paired form)",
+        "Rank":5,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-ikkei (paired form)",
+        "Rank":5,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"ryusui geri (mae)",
+        "Rank":5,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"uwa uke geri (omote, ura)",
+        "Rank":5,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"katate yori nuki",
+        "Rank":5,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"maki nuki (katate)",
+        "Rank":5,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"mae yubi gatame",
+        "Rank":5,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-nikei (solo form)",
+        "Rank":4,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"uchi age zuki (ura, omote)",
+        "Rank":4,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"uchi age geri (ura, omote)",
+        "Rank":4,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"soto uke zuki (ura, omote)",
+        "Rank":4,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"soto uke geri (ura, omote)",
+        "Rank":4,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"shita uke geri",
+        "Rank":4,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"shita uke jun geri",
+        "Rank":4,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"gyaku gote",
+        "Rank":4,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"okuri gatame",
+        "Rank":4,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-sankei (solo form)",
+        "Rank":3,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-yonkei (solo form)",
+        "Rank":3,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Giwa ken Dai-nikkei (solo form)",
+        "Rank":3,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Giwa Ken Dai-ikkei (paired from)",
+        "Rank":3,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"uchi uke geri (ura, omote)",
+        "Rank":3,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"soto oshi uke zuki",
+        "Rank":3,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"tsuki ten ichi",
+        "Rank":3,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"ryote yori nuki",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"tsuki nuki (ryote)",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"maki nuki (ryote)",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"juji nuki (katate)",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"nidan nuki",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"hiji nuki, continued to mae tembin",
+        "Rank":3,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"ura gatame",
+        "Rank":3,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"juji gatame",
+        "Rank":3,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"johaku dori (katate, ryote)",
+        "Rank":3,
+        "Style":"Rakan Ken",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-nikei (paired from)",
+        "Rank":2,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"uchi uke zuki (omote)",
+        "Rank":2,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"kusshin zuki",
+        "Rank":2,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"juji uke geri",
+        "Rank":2,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"kon ten ichi",
+        "Rank":2,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"kiri kaeshi nuki (katate, ryote)",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"sankaku nuki",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"juji nuki (ryote)",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"gassho nuki",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"johaku nuki (katate, ryote)",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"oshi kiri nuki",
+        "Rank":2,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"gyaku gote continued to ura gaeshi nage",
+        "Rank":2,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"juji gote (katate)",
+        "Rank":2,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"okuri yubi dori",
+        "Rank":2,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":null,
+        "Rank":2,
+        "Style":"tate gassho gatame",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-gokei (solo form)",
+        "Rank":1,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Tenchi Ken Dai-rokkei (solo form)",
+        "Rank":1,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"Byakuren Ken Dai-ikkei (solo form)",
+        "Rank":1,
+        "Style":"Tan'en Kihon Hokei",
+        "Description":null
+    },
+    {
+        "Title":"uchi oshi uke zuki",
+        "Rank":1,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"han tenshin geri",
+        "Rank":1,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"yoko tenshin geri",
+        "Rank":1,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"furi ten ni",
+        "Rank":1,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"tsuki ten ni",
+        "Rank":1,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"keri ten san",
+        "Rank":1,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"tsuki ten san",
+        "Rank":1,
+        "Style":"Ten'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"tsubame gaeshi",
+        "Rank":1,
+        "Style":"Byakuren Ken",
+        "Description":null
+    },
+    {
+        "Title":"chidori gaeshi",
+        "Rank":1,
+        "Style":"Byakuren Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote tsuki nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"katate oshi nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote juji nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote hiki nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"eri nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"sode nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"ryote okuri gote",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"okuri dori",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"okuri yoko tembin",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"ryote juji gote",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"ryaku juji gote",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"maki juji gote",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"kiri gote (katate, morote)",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"mae tembin gatame",
+        "Rank":1,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"tembin gatame (ura)",
+        "Rank":1,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"sode maki",
+        "Rank":1,
+        "Style":"Rakan Ken",
+        "Description":null
+    },
+    {
+        "Title":"sode dori",
+        "Rank":1,
+        "Style":"Rakan Ken",
+        "Description":null
+    },
+    {
+        "Title":"kusshin geri",
+        "Rank":1,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"kusshin tsuki keri",
+        "Rank":1,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"soto oshi uke geri",
+        "Rank":1,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"uchi oshi uke geri",
+        "Rank":1,
+        "Style":"Nio Ken",
+        "Description":null
+    },
+    {
+        "Title":"harai uke geri",
+        "Rank":1,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"gedan gaeshi",
+        "Rank":1,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"gyaku tenshin geri",
+        "Rank":1,
+        "Style":"Sango Ken",
+        "Description":null
+    },
+    {
+        "Title":"kinteki geri hiza uke nami gaeshi",
+        "Rank":1,
+        "Style":"Kakuritsu Ken",
+        "Description":null
+    },
+    {
+        "Title":"gyaku geri hiza uke nami gaeshi",
+        "Rank":1,
+        "Style":"Kakuritsu Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote maki nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote oshi nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote wa nuki",
+        "Rank":1,
+        "Style":"Ryu'o Ken",
+        "Description":null
+    },
+    {
+        "Title":"maki gote (katate, morote)",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"morote juji gote",
+        "Rank":1,
+        "Style":"Ryuka Ken",
+        "Description":null
+    },
+    {
+        "Title":"kannuki gatame",
+        "Rank":1,
+        "Style":"Kongo Ken",
+        "Description":null
+    },
+    {
+        "Title":"sode maki tembin",
+        "Rank":1,
+        "Style":"Rakan Ken",
+        "Description":null
+    },
+    {
+        "Title":"hiki otoshi",
+        "Rank":1,
+        "Style":"Rakan Ken",
+        "Description":null
+    }
+]

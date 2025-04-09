@@ -1,0 +1,130 @@
+ID,Title,Kyu Level,Style,Description
+1,Happomoku,1,Basic,Eye movement to assess all directions. Develops awareness and preparedness for incoming attacks.
+2,Anza,1,Basic,Sitting meditation posture. Cultivates mental focus and stability.
+3,Entrance ceremony,6,Basic,Formal procedures for entering the dojo. Reinforces respect and discipline.
+4,Kyakka shoko,6,Basic,Bowing upon entering and leaving the dojo. Shows gratitude and respect for the training space.
+5,Gassho rei,6,Basic,Formal greeting with hands together. Demonstrates respect and humility.
+6,Various stances,6,Kamae,"Includes stances like chudan gamae, ichiji gamae, etc. Foundational postures for stability and technique execution."
+7,Chosoku ho,6,Basic,Method of maintaining a centered posture. Promotes balance and efficient movement.
+8,Sokui ho,6,Basic,Breathing exercises for relaxation and focus. Enhances mental and physical composure.
+9,Sei tai,6,Shifting,Shifting the body weight to a forward stance. Prepares for offensive techniques.
+10,Tai,6,Shifting,Shifting the body weight to a neutral stance. Provides a balanced foundation for both offense and defense.
+11,Hiraki,6,Shifting,Shifting the body weight to a back stance. Sets up defensive techniques.
+12,Ryusui geri (ushiro),6,Kihon,Roundhouse kick. A powerful offensive technique.
+13,Uchi uke zuki (ura),6,Kihon,Inside block followed by a punch. A basic defensive and counter-offensive combination.
+14,Tenshin geri,6,Kihon,Turning kick. Utilizes momentum for a dynamic attack.
+15,Uwa uke zuki (omote),6,Kihon,Outside block followed by a punch. A fundamental defensive and counter-offensive technique.
+16,Kote nuki,6,Kihon,Wrist release technique. A core self-defense skill.
+17,De ashi,6,Basic,Sliding the foot forward. Used for advancing stances and techniques.
+18,Hiki ashi,6,Basic,Sliding the foot backward. Used for retreating stances and techniques.
+19,Yoko ashi,6,Basic,Sliding the foot sideways. Used for lateral movement and evasion.
+20,Ryusui uke,6,Basic,Basic upper-level block. Deflects attacks aimed at the head or upper body.
+21,Hikimi,6,Basic,Pulling in the abdomen for focus and power generation. Engages core muscles and improves stability.
+22,Irimi,6,Basic,Entering or stepping forward. Used to close distance and initiate attacks.
+23,Jun zuki,6,Basic,Straight punch with the lead hand. A fundamental offensive technique.
+24,Gyaku zuki,6,Basic,Straight punch with the rear hand. A powerful offensive technique.
+25,Jun geri,6,Basic,Straight kick with the lead leg. A basic kicking technique.
+26,Gyaku geri,6,Basic,Straight kick with the rear leg. A powerful kicking technique.
+27,Uwa uke,6,Basic,Outside block. Deflects attacks coming from the outside.
+28,Uchi uke,6,Basic,Inside block. Deflects attacks coming from the inside.
+29,Shita uke,6,Basic,Lower block. Deflects attacks aimed at the lower body.
+30,Jodan zuki,6,Basic,Punch to the upper level (head). A basic offensive technique.
+31,Chudan geri,6,Basic,Kick to the middle level (body). A basic kicking technique.
+32,Juji ashi sagari,6,Basic,Stepping back with the feet crossed. Used for evading attacks and creating angles.
+33,Kumo ashi sagari,6,Basic,Stepping back with the feet apart. Used for maintaining balance while retreating.
+34,Do zuki,6,Basic,Strike with the fist to a padded target. Used for practicing power and accuracy.
+35,Do geri,6,Basic,Kick to a padded target. Used for practicing power and accuracy.
+36,Mae ukemi,6,Basic,Forward roll breakfall. Used for safely falling forward.
+37,Ushiro ukemi,6,Basic,Backward roll breakfall. Used for safely falling backward.
+38,Daisharin,6,Basic,Cartwheel. Develops agility and coordination.
+39,Zen tenkan,6,Basic,Full turn. Used for changing direction and facing the opponent.
+40,Han tenkan,6,Basic,Half turn. Used for changing direction and facing the opponent.
+41,Kagi zuki,6,Basic,Hook punch. A circular punch aimed at the head or body.
+42,Harai uke,6,Basic,Sweeping block. Used for deflecting attacks with a sweeping motion.
+43,Uchi harai uke,6,Basic,Inside sweeping block. Used for deflecting attacks coming from the inside.
+44,Oten yori okiagari,6,Basic,Standing up from a supine position. Practices recovery and regaining balance.
+45,Nuki te,6,Basic,Hand-releasing techniques. Used for escaping grabs and holds.
+46,Uraken uchi,6,Basic,Backfist strike. A close-range offensive technique.
+47,Kote nuki,6,Basic,Wrist release technique. A core self-defense skill.
+48,Kagite shuho,6,Basic,Method of grabbing the opponent's hand. Used for initiating joint locks and throws.
+49,Uraken chudan zuki,6,Basic,Backfist strike to the middle level (body). A close-range offensive technique.
+50,Sashikae irimi,6,Basic,Stepping forward with the rear leg. Used for closing distance and initiating attacks.
+51,Chidori irimi,6,Basic,Stepping forward with the lead leg. Used for closing distance and initiating attacks.
+52,Hiraki sagari,6,Basic,Stepping back with the rear leg. Used for creating distance and setting up defenses.
+53,Jun sagari,6,Basic,Stepping back with the lead leg. Used for creating distance and setting up defenses.
+54,Offenses while moving,6,Basic,Practicing punches and kicks while moving forward or backward. Develops dynamic striking skills.
+55,Defenses while moving,6,Basic,Practicing blocks and evasions while moving forward or backward. Develops dynamic defensive skills.
+56,Tenchi Ken Dai-ikkei (solo form),6,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+57,Ryu'o Ken Dai-ikkei (solo form),6,Kihon,A prearranged sequence of joint-locking and throwing techniques. Develops self-defense skills.
+58,Offenses and defenses while moving,6,Basic,Practicing combined attack and defense techniques while moving. Develops integrated combat skills.
+59,Ni ren ko of tsuki and keri,6,Basic,Two consecutive strikes with punches and kicks. Develops combination striking skills.
+60,Keri age,5,Basic,Upward kick. A versatile offensive and defensive technique.
+61,Keri komi,5,Basic,Thrusting kick. A powerful offensive technique.
+62,Byakuren chudan gamae (kaisoku chudan gamae),5,Kamae,A specific stance used in Byakuren Ken techniques. Provides a balanced foundation for both offense and defense.
+63,Jo chu ni ren zuki,5,Basic,Two consecutive punches to the upper and middle levels. A basic combination striking technique.
+64,Hiraki sagari and keri,5,Basic,Stepping back and kicking. A defensive and counter-offensive maneuver.
+65,Shuto giri,5,Basic,Knifehand strike. A versatile offensive technique.
+66,Yorimi,5,Basic,Leaning or shifting the body weight. Used for evasion and creating angles.
+67,Tenchi Ken Dai-ikkei (paired form),5,Hokei,Prearranged two-person sequence of basic techniques. Develops timing and partner coordination.
+68,Randori (goho),5,Randori,Free-form sparring focusing on offensive techniques. Develops practical application of techniques.
+69,Randori (juho),5,Randori,Free-form sparring focusing on defensive techniques. Develops practical application of techniques.
+70,Sashikomi ashi and jun geri,5,Basic,Stepping forward with a thrusting kick. A basic offensive combination.
+71,Mawashi geri,5,Basic,Roundhouse kick. A powerful offensive technique.
+72,Juji uke,5,Basic,Cross block. Used for defending against attacks from various angles.
+73,Various types of tai gamae,5,Kamae,Variations of the basic stance. Adapts the stance to different situations.
+74,Giwa Ken Dai-ikkei (solo form),5,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+75,Sashikae ashi,5,Basic,Switching the lead leg. Used for changing direction and creating angles.
+76,Sokuto geri,5,Basic,Side kick. A powerful offensive technique.
+77,Uchi geri,5,Basic,Inside kick. A close-range offensive technique.
+78,Gedan zuki,5,Basic,Punch to the lower level (groin). A basic offensive technique.
+79,"Jun zuki, gyaku zuki, jun geri, gyaku geri",4,Basic,Basic punches and kicks with both lead and rear limbs. Fundamental offensive techniques.
+80,Soto uke,4,Basic,Outside block. Deflects attacks coming from the outside.
+81,Giwa Ken Dai-ikkei (solo form),4,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+82,Various types of ukemi,4,Basic,Variations of breakfalls. Improves safety and adaptability in different falling scenarios.
+83,Various types of umpo ho,4,Basic,Variations of footwork techniques. Enhances agility and movement efficiency.
+84,Various types of tai sabaki,4,Basic,Body movements and evasion techniques. Develops agility and defensive skills.
+85,Various types of furi zuki,4,Basic,Swinging punches. A versatile offensive technique.
+86,Various types of kagi zuki,4,Basic,Hook punches. A circular punch aimed at the head or body.
+87,"Furi zuki, chudan zuki (ni ren ko)",4,Basic,Two consecutive swinging punches. A combination striking technique.
+88,Soto uke and uchi age uke,4,Basic,Combined outside and uppercut block. Defends against attacks from different levels.
+89,Tenchi Ken Dai-nikei (solo form),4,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+90,"Ni ren ko (jo jo zuki, jo chu zuki)",4,Basic,Two consecutive punches to the upper level. A combination striking technique.
+91,"Ni ren ko (uraken and chudan zuki, shuto giri and chudan zuki)",4,Basic,"Combinations of backfist strikes, knifehand strikes, and middle-level punches. Develops combination striking skills."
+92,Urate uchi (kinteki uchi),4,Basic,Palm heel strike to the groin. A close-range offensive technique.
+93,"Shoken uchi (suigetsu, yoko zanmai, mikazuki)",4,Basic,Variations of open-hand strikes. A versatile offensive technique.
+94,"San ren ko (jo chu jo tsuki, jo chu keri)",3,Basic,Three consecutive strikes with punches and kicks. Develops combination striking skills.
+95,Tenchi Ken Dai-sankei (solo form),3,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+96,Tenchi Ken Dai-yonkei (solo form),3,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+97,"Ren geri (jun geri, gyaku geri and gyaku geri, jun geri)",3,Basic,Consecutive kicks with alternating legs. Develops kicking combinations.
+98,Tobi ren geri,3,Basic,Jumping consecutive kicks. Develops dynamic kicking skills.
+99,"Various types of dan zuki (me uchi and chudan zuki, jo jo dan zuki, jo chu dan zuki)",3,Basic,Variations of striking techniques targeting specific pressure points. Develops precision and knowledge of vital points.
+100,Sokuto geri,3,Basic,Side kick. A powerful offensive technique.
+101,Various types of hiji ate,3,Basic,Elbow strikes. A close-range offensive technique.
+102,Giwa Ken Dai-nikei (solo form),3,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+103,"San ren ko (jo chu choku geri, jo chu mawashi geri)",3,Basic,Three consecutive strikes with punches and kicks. Develops combination striking skills.
+104,Furi zuki (single and ren attacks),3,Basic,"Swinging punches, single and in combination. A versatile offensive technique."
+105,Various types of umpo ho,3,Basic,Variations of footwork techniques. Enhances agility and movement efficiency.
+106,Various types of ukemi,3,Basic,Variations of breakfalls. Improves safety and adaptability in different falling scenarios.
+107,Giwa Ken Dai-ikkei (paired form),3,Hokei,Prearranged two-person sequence of basic techniques. Develops timing and partner coordination.
+108,"Shoken uchi (mikazuki, suigetsu)",3,Basic,Variations of open-hand strikes. A versatile offensive technique.
+109,Ryu'o Ken Dai-ikkei (solo form),3,Kihon,A prearranged sequence of joint-locking and throwing techniques. Develops self-defense skills.
+110,"Sashikomi ashi, mawashi geri",3,Basic,Stepping forward with a roundhouse kick. A basic offensive combination.
+111,Harai uke and yoko juji uke,3,Basic,Sweeping block and cross block. Used for defending against attacks from various angles.
+112,Ni ren ko (shuto giri and chudan zuki),2,Basic,Two consecutive strikes with a knifehand strike and a middle-level punch. Develops combination striking skills.
+113,Ni ren ko (jodan zuki and chudan zuki),2,Basic,Two consecutive punches to the upper and middle levels. A basic combination striking technique.
+114,Various types of hiji ate,2,Basic,Elbow strikes. A close-range offensive technique.
+115,Study defense against ashi barai,2,Juho,Learning to defend against foot sweeps. A core defensive skill.
+116,Various types of hiji ate,2,Basic,Elbow strikes. A close-range offensive technique.
+117,"Tobikomi geri, tobi geri, tobi ren geri",2,Basic,"Jumping kicks, single and in combination. Develops dynamic kicking skills."
+118,Various types of furi zuki,2,Basic,Swinging punches. A versatile offensive technique.
+119,Kusshin uke,2,Basic,A specific block used in Kusshin techniques. Deflects attacks aimed at the head or upper body.
+120,Furi zuki and kussin uke,2,Basic,Swinging punch and a specific block. A basic offensive and defensive combination.
+121,"San ren ko (jo chu jo, jo chu keri)",2,Basic,Three consecutive strikes with punches and kicks. Develops combination striking skills.
+122,Tenchi Ken Dai-nikei (solo form),2,Kihon,A prearranged sequence of basic techniques. Develops coordination and flow.
+123,"Ude ushiro neji age, hammer throw",2,Juho,Joint lock and throw technique. A core self-defense skill.
+124,Tenchi Ken Dai-nikei (paired form),2,Hokei,Prearranged two-person sequence of basic techniques. Develops timing and partner coordination.
+125,"Gyaku geri and yoko tenshin, han tenshin, gyaku tenshin",2,Basic,Reverse kick and turning movements. Develops dynamic kicking and evasion skills.
+126,"Sashikomi ashi, keri ren ko",2,Basic,Stepping forward with consecutive kicks. Develops combination kicking skills.
+127,"Sashikae ashi, keri ren ko",2,Basic,Switching the lead leg with consecutive kicks. Develops dynamic kicking and footwork skills.
+128,Pressure points of the hands and arms,2,Basic,Knowledge of vital points on the limbs. Enhances effectiveness of techniques.
+129,Ni ren ko (furi zuki),2,Basic,Two consecutive swinging punches. A combination striking technique.
