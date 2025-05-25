@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Kihon Waza 1",
+    "Rank": 1,
+    "Style": "Kihon",
+    "Description": "Basic technique number 1.",
+    "image_url": "http://example.com/path/to/image1.jpg"
+  },
+  {
+    "Title": "Kata - Enpi",
+    "Rank": 1,
+    "Style": "Kata",
+    "Description": "Enpi kata.",
+    "image_url": "http://example.com/path/to/image2.jpg"
+  },
+  {
+    "Title": "Kumite - Ippon Kumite",
+    "Rank": 2,
+    "Style": "Kumite",
+    "Description": "One-step sparring.",
+    "image_url": "http://example.com/path/to/image3.jpg"
+  }
+]
